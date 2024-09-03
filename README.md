@@ -25,3 +25,9 @@ Atualmente sou aprendiz de Data Science na <a href= "https://comunidadeds.com/">
   <img src ='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white'>
   <img src ='https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white'>
 </div>
+
+#### Projetos que ja realizei:
+
+- <a href="https://github.com/Samuel-Lima-DS/zomato_restaurant">
+Projeto Zomato: Desenvolvimento de um Painel Gerencial para negócio com o Streamlit
+</a>
