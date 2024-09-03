@@ -29,5 +29,5 @@ Atualmente sou aprendiz de Data Science na <a href= "https://comunidadeds.com/">
 #### Projetos que ja realizei:
 
 - <a href="https://github.com/Samuel-Lima-DS/zomato_restaurant">
-Projeto Zomato: Desenvolvimento de um Painel Gerencial para negócio com o Streamlit
+    Projeto Zomato: Desenvolvimento de um Painel Gerencial para negócio com o Streamlit
 </a>
