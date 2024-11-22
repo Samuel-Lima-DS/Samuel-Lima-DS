@@ -1,7 +1,7 @@
 ### Oi, eu sou o Samuel Lima. 
 ##
 ### Seja bem vindo ao meu repositório de projetos!
-Atualmente sou aprendiz em Engenharia de Dados na <a href= "https://jornadadedados.com/"> Jornada de Dados</a>.
+Atualmente sou aprendiz em Engenharia de Dados na <a href= "https://jornadadedados.alpaclass.com/"> Jornada de Dados</a>.
 
 ##
 ### Contatos:
