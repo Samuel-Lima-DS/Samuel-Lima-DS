@@ -31,3 +31,7 @@ Atualmente sou aprendiz em Engenharia de Dados na <a href= "https://jornadadedad
 - <a href="https://github.com/Samuel-Lima-DS/zomato_restaurant">
     Projeto Zomato: Desenvolvimento de um Painel Gerencial para negócio com o Streamlit
 </a>
+
+- <a href="https://github.com/Samuel-Lima-DS/ifood_analytics">
+    Projeto iFood: Análise de Dados e clusterização
+</a>
