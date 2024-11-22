@@ -1,7 +1,7 @@
 ### Oi, eu sou o Samuel Lima. 
 ##
 ### Seja bem vindo ao meu repositório de projetos!
-Atualmente sou aprendiz de Data Science na <a href= "https://comunidadeds.com/"> Comunidade DS</a>.
+Atualmente sou aprendiz em Engenharia de Dados na <a href= "https://jornadadedados.com/"> Jornada de Dados</a>.
 
 ##
 ### Contatos:
