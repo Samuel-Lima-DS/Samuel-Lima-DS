@@ -9,9 +9,7 @@ Atualmente sou aprendiz em Engenharia de Dados na <a href= "https://jornadadedad
   <a href="https://www.linkedin.com/in/samuellimaesilva/">
   <img src ='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'>
   </a>
-  <a href="https://samuel-lima-ds.github.io/portfolio_projetos/">
-   <img src ='https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139'>
-  </a>
+
  
 </div>
 
